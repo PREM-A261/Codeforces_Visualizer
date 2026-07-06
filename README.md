@@ -68,7 +68,7 @@ No API key is required, and all requests are made client-side directly from the 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/codeforces-visualizer.git
+https://github.com/PREM-A261/Codeforces_Visualizer.git
 cd codeforces-visualizer
 
 # Install dependencies
