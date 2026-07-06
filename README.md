@@ -91,20 +91,6 @@ npx parcel build index.html
 
 The optimized static output is generated in the `dist/` folder, ready to be deployed to any static hosting provider (Vercel, Netlify, GitHub Pages, etc.).
 
-## ☁️ Deployment
-
-This project builds to a fully static site, so it can be deployed anywhere that serves static files:
-
-**Vercel**
-1. Push this repo to GitHub.
-2. Go to [vercel.com/new](https://vercel.com/new) and import the repository.
-3. Set:
-   - **Build Command:** `npx parcel build index.html`
-   - **Output Directory:** `dist`
-4. Click **Deploy**.
-
-**Netlify** works the same way — build command `npx parcel build index.html`, publish directory `dist`.
-
 ## 🗺️ Roadmap / Ideas for Improvement
 
 - [ ] Add loading/error states for invalid or non-existent handles
@@ -128,4 +114,4 @@ This project is licensed under the **ISC License**.
 
 ## 🙋 Author
 
-Made with ❤️ by **Satyam**
+Made with ❤️ by **Prem**
